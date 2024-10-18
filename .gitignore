@@ -1,0 +1,9 @@
+# sst
+.sst
+.env*
+!.env.example
+.nuxt
+.output
+deploy_key
+node_modules
+

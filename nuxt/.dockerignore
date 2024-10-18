@@ -1,0 +1,8 @@
+.env
+.git
+.nuxt
+Dockerfile*
+docker-compose*
+.dockerignore
+.gitignore
+node_modules

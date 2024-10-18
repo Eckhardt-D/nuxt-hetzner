@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-hetzner",
+  "module": "sst.config.ts",
+  "type": "module",
+  "scripts": {
+    "deploy": "sst deploy --stage=production"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "sst": "^3.2.34"
+  }
+}
