@@ -43,7 +43,7 @@ The deploy script is pretty self-explanatory in the `sst.config.ts` file on what
 
 ## Delete everything
 
-        bunx sst remote --stage=production
+        bunx sst remove --stage=production
 
 
 ## NB
